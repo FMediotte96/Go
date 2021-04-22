@@ -8,7 +8,10 @@ func main() {
 	//nombre := "Cocooo" //como ya existe la variable lanza un error
 	//nombre = 23 //no puedo asignar un nuevo tipo de dato
 	nombre = "Facu"
+
+	var apellido string = "Mediotte"
 	fmt.Println(nombre)
+	fmt.Println(apellido)
 }
 
 /*
