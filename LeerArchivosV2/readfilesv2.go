@@ -7,6 +7,10 @@ import (
 )
 
 func main() {
+	readFile()
+}
+
+func readFile() bool {
 	archivo, err := os.Open("./hola.txt")
 
 	if err != nil {
@@ -22,4 +26,7 @@ func main() {
 		fmt.Println(i)
 		fmt.Println(linea)
 	}
+
+	archivo.Close() //Debemos siempre cerrar el archivo, pero puede pasar que no llegue nunca a esta linea
+	return true
 }
