@@ -11,6 +11,7 @@
 
 
 ¿Para qué usar Go?
+
 -CommandLine Tools
 -Infraestructura en el Backend
 -Herramientas internas de software
@@ -19,6 +20,7 @@
 
 
 Características:
+
 -Sintaxis parecida a Características
 -Tipado estatico
 -Características y facilidad de lenguajes dinámicos como Python
