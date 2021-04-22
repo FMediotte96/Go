@@ -1,31 +1,33 @@
 ¿Por qué usar Go?
 
-Sintaxis clara y estandarizada
-
-El compilador forza que sigas buenas prácticas
-
-El compilador es MUY rápido
-
-Soporte por concurrencia y fácil de manejar
-
-Fácil de levantar un servidor web
-
-Performance alto
-
-Fácil de aprender
-
-Fácil de subir a producción
-
+-Sintaxis clara y estandarizada
+-El compilador forza que sigas buenas prácticas
+-El compilador es MUY rápido
+-Soporte por concurrencia y fácil de manejar
+-Fácil de levantar un servidor web
+-Performance alto
+-Fácil de aprender
+-Fácil de subir a producción
 
 
 ¿Para qué usar Go?
+-CommandLine Tools
+-Infraestructura en el Backend
+-Herramientas internas de software
+-Servicios Web
+-Herramientas de automatización
 
-CommandLine Tools
 
-Infraestructura en el Backend
-
-Herramientas internas de software
-
-Servicios Web
-
-Herramientas de automatización
+Características:
+-Sintaxis parecida a Características
+-Tipado estatico
+-Características y facilidad de lenguajes dinámicos como Python
+-Recolector de Basura
+-Admite el paradigma de programación orientada a objetos
+-Lenguaje compilado
+-Lenguaje concurrente
+-Sencillez
+-Declaración de variables simple
+-Admite la tipificación dinámica de datos - Duck Typing
+-No tiene excepciones
+-Lenguaje innovador
